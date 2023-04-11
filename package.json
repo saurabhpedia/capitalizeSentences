@@ -1,0 +1,25 @@
+{
+  "name": "capitalizesentences",
+  "version": "1.0.0",
+  "description": "JavaScript function that capitalizes the first letter of each sentence in a given string.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saurabhpedia/capitalizeSentences.git"
+  },
+  "keywords": [
+    "Capitalize",
+    "Sentence",
+    "Word",
+    "Formatter"
+  ],
+  "author": "Saurabh Raman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saurabhpedia/capitalizeSentences/issues"
+  },
+  "homepage": "https://github.com/saurabhpedia/capitalizeSentences#readme"
+}
